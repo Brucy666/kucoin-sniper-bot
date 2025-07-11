@@ -1,1 +1,1 @@
-# Placeholder for kucoin_sniper_scanner.py
+scanner core logic here
