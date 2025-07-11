@@ -1,1 +1,1 @@
-worker: python3 kucoin_sniper_scanner.py
+python3 kucoin_sniper_scanner.py
